@@ -1,0 +1,40 @@
+/* ┌──────────────────────────────────────┐ */
+/* │    Homepage 任务卡片 莫兰迪配色        │ */
+/* └──────────────────────────────────────┘ */
+/* info 卡片 - 莫兰迪蓝 */
+body .callout[data-callout="info"] {
+    background-color: #D6E4EE !important;
+    border: none !important;
+    font-size: 0.82em !important;
+}
+
+/* note 卡片 - 莫兰迪黄 */
+body .callout[data-callout="note"] {
+    background-color: #F0E6CE !important;
+    border: none !important;
+    font-size: 0.82em !important;
+}
+
+/* check 卡片 - 莫兰迪绿 */
+body .callout[data-callout="check"] {
+    background-color: #DCE8DA !important;
+    border: none !important;
+    font-size: 0.82em !important;
+}
+
+body .callout[data-callout="check"] .callout-title {
+    color: #4384A3 !important;
+}
+
+body .callout[data-callout="check"] .callout-title-inner {
+    color: #4384A3 !important;
+}
+
+body .callout[data-callout="check"] .callout-icon {
+    color: #4384A3 !important;
+}
+
+body .callout[data-callout="check"] .callout-icon svg {
+    color: #4384A3 !important;
+    stroke: #4384A3 !important;
+}
