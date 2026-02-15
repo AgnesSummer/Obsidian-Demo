@@ -7,5 +7,6 @@
 3.  .obsidian/themes 文件夹内容,copy到你的  .obsidian/themes
 4. 配置DailyNote插件：指定模版为Resources/Templates/DearDiary.md
 5. 配置主题：设置为DaySpring
+6. 如果要改日记模版里打卡的项目，记得把打卡项目的tag一起改掉。比如 study #habit/study 改成 read #habit/read
 
 应该就ok啦！！
